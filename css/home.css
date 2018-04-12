@@ -1,0 +1,8 @@
+h1{font-family:serif; color:azure;opacity: 0.8;font-size: 10em;}
+body,html{height: 100%; margin:0 auto;padding: 0;}
+.bgimg {
+    min-height: 100%;
+    background-position: center;
+    background-size: cover;
+}
+.bgimg {background-image: url("../images/room.jpg");}
